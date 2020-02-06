@@ -1,0 +1,37 @@
+body{
+    font-size: x-small;
+    background-color: darkslategray;
+    font-size: smaller;
+    padding-block: ;
+}
+h1.h3{
+    color: darkblue;
+    font-style: oblique;
+    
+}
+ol{
+    color: orange;
+}
+ul{
+    color: darkgreen;
+}
+nav{
+    color: dodgerblue;
+    align-content: stretch;
+    font-display: ;
+}
+img{
+    align-self: center;
+}
+.page{
+mask-border-mode: ;
+background-color: gray;
+padding-bottom: 0fr;
+}
+h1{
+    font-style: inherit;
+    font-size:30px ;
+    text-align-last: center;
+    font-style: oblique;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

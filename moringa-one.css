@@ -1,0 +1,38 @@
+h1 {
+    border:1px solid black
+    background-color: indigo;
+}
+.nav {
+    font: normal 12px/1.5 arial;
+    background-color: darkgrey;
+    text-align: center;
+    color: rgb(12, 166, 172);
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid black;
+    width: 200px;
+
+}
+.top{
+    width: 810px;
+    height: 75px;
+    border: 1px solid black;
+    margin: 5px;
+    background-color: darkgrey;
+    text-align: center;
+    font: normal bold 16px/4.5 arial ;
+    color: darkred;
+}
+.middle{
+    width: 265px ;
+    height: 300px;
+    border: 1px solid black;
+    background-color: darkslategray;
+    float: left;
+    margin-left: 5px;
+    font-weight: bold;
+}
+body{
+    background-image: url(/home/darwin/Desktop/htmlfiles/tires.jpg);
+}
+
